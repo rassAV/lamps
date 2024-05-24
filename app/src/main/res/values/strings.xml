@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lamps</string>
+    <string name="circle_description">Circle image representing a game tile</string>
+</resources>
